@@ -1,0 +1,9 @@
+
+# Data and backups (too large for Git)
+data/raw/*
+!data/raw/.gitkeep
+*.zip
+*.sql.gz
+
+# Mac
+.DS_Store
